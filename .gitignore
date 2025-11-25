@@ -1,0 +1,78 @@
+# ======================
+# Miscellaneous
+# ======================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ======================
+# IntelliJ related
+# ======================
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ======================
+# Optional: VSCode config
+# ======================
+#.vscode/
+
+# ======================
+# Flutter/Dart/Pub related
+# ======================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# ======================
+# iOS related
+# ======================
+**/ios/Flutter/.last_build_id
+ios/Pods/
+ios/Flutter/Flutter.podspec
+
+# ======================
+# Android related
+# ======================
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ======================
+# Symbolication / Obfuscation
+# ======================
+app.*.symbols
+app.*.map.json
+
+# ======================
+# Node.js related (quan trọng)
+# ======================
+**/node_modules/
+**/.npm/
+**/.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Environment files (bảo mật)
+# ======================
+.env
+.env.*
+*.secret
+*.private

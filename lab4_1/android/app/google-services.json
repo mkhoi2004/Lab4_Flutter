@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044739096083",
+    "project_id": "lab4cham1",
+    "storage_bucket": "lab4cham1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044739096083:android:1aefdb689bc16d4be209e6",
+        "android_client_info": {
+          "package_name": "com.example.lab4_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrP9m_IqZFJVyONhAy_XDYqdAUy237ufY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
